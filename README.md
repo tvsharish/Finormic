@@ -3,10 +3,12 @@ Programs:
 Question 1: 3 sum closest
 Given an array S of n integers, find three integers in S such that the sum is closest to a given number, target.
 Return the sum of the three integers.
+
 Answer 1: ```three_numbers_sum_target.py```
 
-Question 3: Anangram
+Question 3: Anagram
 Given an array of strings, return all groups of strings that are anagrams. Represent a group by a list of integers representing the index in the original list.
+
 Answer 3: ```anagrams.py```
 
 Linux Tool:
@@ -53,7 +55,7 @@ Note: You can use PIP or any other command line tool to install python packages
 Handle cases like: 
 When one library fail to download then we process shall continue.
 
-Solution: Required dependencies are placed in package.json
+Solution: Required dependencies are placed in ```package.json```
 Tool is named as ```echo.sh```
 
 
