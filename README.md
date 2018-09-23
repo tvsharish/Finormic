@@ -56,7 +56,7 @@ Handle cases like:
 When one library fail to download then we process shall continue.
 
 Solution: Required dependencies are placed in [package.json](https://github.com/tvsharish/Finormic/blob/master/linux_question/package.json).
-Tool is named as [echo.sh](https://github.com/tvsharish/Finormic/blob/master/linux_question/echo.sh)in [linux_question](https://github.com/tvsharish/Finormic/tree/master/linux_question) folder.Additional python script is created to take data from json called [json123.py](https://github.com/tvsharish/Finormic/blob/master/linux_question/json123.py).
+Tool is named as [echo.sh](https://github.com/tvsharish/Finormic/blob/master/linux_question/echo.sh) in [linux_question](https://github.com/tvsharish/Finormic/tree/master/linux_question) folder.Additional python script is created to take data from json called [json123.py](https://github.com/tvsharish/Finormic/blob/master/linux_question/json123.py).
 
 
 
